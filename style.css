@@ -1,0 +1,96 @@
+.nav-logo img{
+    width:400px;
+    margin: 30px;
+    padding-left:50px;
+   
+}
+.nav-logo ul{ float:right;
+    
+}
+.slide-img img{
+    width:400px;
+    height:380px;
+    margin-left:100px;
+}
+.nav-l ul {
+    margin-left:300px;
+}
+.top-slide{
+    display:flex;
+    flex-wrap: wrap;
+    height: 500px;
+}
+.slide-content{
+    margin-left:850px;
+    margin-top: -350px;
+}
+.frist-h{
+    color:#FA804C;
+  
+  
+}
+.second-hed{
+    color:#363958;
+ 
+}
+.card-bg{
+    background-color: #F1F1F1;
+ width:100%;
+border-radius: 20px;
+}
+.second-section{
+    width:80%;
+    margin:auto;
+}
+
+   
+.secont-section{
+
+    margin-top: 50px;
+}
+.frist-section{
+    background-color: #FFF9F4;
+    height: 700px;
+}
+.trd-section{
+    height: 550px;
+    width:80%;
+    margin:auto;
+}
+.footar-slide{
+    width:600px;
+    height: 350px;
+    
+}
+.footar-continar{
+    height:500px;
+    margin-left: 100px;
+ 
+}
+.footar-img{
+    width:70px;
+    height: 70px;
+  
+
+}
+.last-section{
+    width:100%;
+    margin-top: 400px;
+    margin-bottom: 200px;
+}
+.footar-content{
+    margin-left: 50px;
+    padding:30px;
+    width:450px;
+}
+.footar-div{
+    width:300px;
+    height: 300px;
+}
+.footar-logo{
+    margin-right:20px;
+}
+ul li a{
+    color:black;
+    font-weight: 700;
+}
